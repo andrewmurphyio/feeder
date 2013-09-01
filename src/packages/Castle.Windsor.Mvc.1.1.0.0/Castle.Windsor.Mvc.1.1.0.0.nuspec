@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Castle.Windsor.Mvc</id>
+    <version>1.1.0.0</version>
+    <title>Castle.Windsor.Mvc</title>
+    <authors>Diego Mijelshon</authors>
+    <owners>Diego Mijelshon</owners>
+    <projectUrl>https://github.com/diegose/Castle.Windsor.Mvc</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WindsorControllerFactory implementation</description>
+    <releaseNotes />
+    <copyright>Copyright 2013</copyright>
+    <language />
+    <tags>castle windsor mvc</tags>
+    <dependencies>
+      <dependency id="Castle.Windsor" version="3.2.0" />
+      <dependency id="Microsoft.AspNet.Mvc" version="4.0.20710.0" />
+    </dependencies>
+  </metadata>
+</package>
