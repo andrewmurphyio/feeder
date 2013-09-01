@@ -1,0 +1,4 @@
+/src/Web/App_Data/*.mdf
+
+/src/Web/App_Data/*.ldf
+/src/Web/obj
