@@ -17,7 +17,6 @@ namespace Web
         {
             AreaRegistration.RegisterAllAreas();
 
-            IdentityConfig.ConfigureIdentity();
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
